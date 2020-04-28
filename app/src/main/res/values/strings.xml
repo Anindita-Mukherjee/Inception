@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Inception</string>
+    <string name="go">Go</string>
+    <string name="todo">TODO</string>
+    <string name="type_your_text_here">type your text here</string>
+    <string name="send">SEND</string>
+    <string name="textview">TextView</string>
+    <string name="click_the_buttons_to_find_the_functionality_of_each_element_from_left_to_right">Click the buttons to find the functionality of each element(from left to right)</string>
+    <string name="boat">Boat</string>
+    <string name="minister">Minister</string>
+    <string name="horse">Horse</string>
+    <string name="elephant">elephant</string>
+    <string name="king">king</string>
+</resources>

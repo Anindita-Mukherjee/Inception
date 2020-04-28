@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inception</string>
+    <string name="go">eta</string>
+    <string name="todo">toDo</string>
+    <string name="type_your_text_here">ekhane likhun</string>
+    <string name="send">pathan</string>
+    <string name="click_the_buttons_to_find_the_functionality_of_each_element_from_left_to_right">karjokarita jante botam tipun</string>
+    <string name="boat">nouka</string>
+    <string name="minister">montri</string>
+    <string name="horse">ghora</string>
+    <string name="elephant">hathi</string>
+    <string name="king">raja</string>
+    <string name="textview">shobdo</string>
+</resources>

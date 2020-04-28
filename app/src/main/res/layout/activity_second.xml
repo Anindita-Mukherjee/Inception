@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity">
+
+    <ImageView
+        android:id="@+id/small"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:contentDescription="@string/todo" />
+
+    <SeekBar
+        android:id="@+id/seekBar_tuner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="255" />
+
+    <ImageView
+        android:id="@+id/large"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        android:contentDescription="@string/todo" />
+
+</android.widget.LinearLayout>
